@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anelya</h1>
 <h3 align="center">A creative software & game developer blending code, art, and curiosity — building playful, purposeful experiences with that Gen Z spark</h3>
 
-- 🔭 I’m currently working on **ShellSpark**
+- 🔭 I’m currently working on **ShellSpark: a terminal-based app that teaches computing**
 
 - 🌱 I’m currently learning **Robotics, Web Systems, Game Dev in Unity**
 
