@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Robotics, Web Systems, Game Dev in Unity**
 
-- 🤝 I’m looking for help with **New work experiences**
+- 🤝 I’m looking for help with **new work experiences**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elya355](https://github.com/elya355)
 
